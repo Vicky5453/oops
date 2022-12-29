@@ -1,2 +1,0 @@
-# viki-
-hello world
